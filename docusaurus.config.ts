@@ -55,13 +55,18 @@ const config: Config = {
   ],
 
   themeConfig: {
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: true,
+      respectPrefersColorScheme: true,
+    },
     // Replace with your project's social card
     image: "img/docusaurus-social-card.jpg",
     navbar: {
-      title: "My Site",
+      title: "Home",
       logo: {
-        alt: "My Site Logo",
-        src: "img/logo.svg",
+        alt: "XSigners logo",
+        src: "img/xSigners-logo.svg",
       },
       items: [
         {
@@ -72,7 +77,7 @@ const config: Config = {
         },
         { to: "/blog", label: "Blog", position: "left" },
         {
-          href: "https://github.com/facebook/docusaurus",
+          href: "https://github.com/protofire/ink-multisig-ui/",
           label: "GitHub",
           position: "right",
         },
@@ -116,12 +121,12 @@ const config: Config = {
             },
             {
               label: "GitHub",
-              href: "https://github.com/facebook/docusaurus",
+              href: "https://github.com/protofire/ink-multisig-ui/",
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `${new Date().getFullYear()} XSigners. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
