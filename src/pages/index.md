@@ -10,9 +10,7 @@ Deployed on *Shibuya*, *Astar*'s testnet, *xSigners* represents the culmination 
 
 *xSigners* is designed to cater to a wide range of users, from individual asset managers to developers looking for a reliable and secure way to interact with smart contracts. *xSigners* contracts are not audited yet. Then,  by leveraging the unique capabilities of the *Shibuya* testnet, *xSigners* offers a sandbox environment where users can explore and familiarize themselves with its features without the risks associated with mainnet transactions.
 
-What sets xSigners apart is its focus on user experience, combined with robust security protocols. It transcends the limitations of traditional multi-sig wallets by offering enhanced flexibility, including the ability to add or remove wallet owners – a feature that significantly elevates its utility and appeal.
-
-We invite you to experience *xSigners* firsthand and witness the future of multi-signature wallet technology. Visit [xsigners.io](https://xsigners.io) to explore and discover this innovative platform. With xSigners, you're not just using a wallet; you're stepping into a new realm of possibilities in the blockchain world.
+What sets xSigners apart is its focus on user experience, combined with robust security protocols. We invite you to experience *xSigners* firsthand and witness the future of multi-signature wallet technology. Visit [xsigners.io](https://xsigners.io) to explore and discover this innovative platform. With xSigners, you're not just using a wallet; you're stepping into a new realm of possibilities in the blockchain world.
 
 ## Key Features
 
