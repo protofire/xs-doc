@@ -4,7 +4,8 @@ import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
   title: "XSigners",
-  tagline: "The most trusted decentralized multisig platform on Polkadot ecosystem",
+  tagline:
+    "The most trusted decentralized multisig platform on Polkadot ecosystem",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -56,7 +57,7 @@ const config: Config = {
 
   themeConfig: {
     colorMode: {
-      defaultMode: 'dark',
+      defaultMode: "dark",
       disableSwitch: true,
       respectPrefersColorScheme: true,
     },
@@ -99,16 +100,12 @@ const config: Config = {
           title: "Community",
           items: [
             {
-              label: "Stack Overflow",
-              href: "https://stackoverflow.com/questions/tagged/docusaurus",
-            },
-            {
               label: "Discord",
-              href: "https://discordapp.com/invite/docusaurus",
+              href: "https://discord.gg/EGtWPpJt",
             },
             {
               label: "Twitter",
-              href: "https://twitter.com/docusaurus",
+              href: "https://twitter.com/protofire",
             },
           ],
         },
